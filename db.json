@@ -1,0 +1,76 @@
+{
+  "wines": [
+    {
+      "name": "SÃO LUIZ WINEMAKER'S COLLECTION GRANDE RESERVA WHITE - FOLGAZÃO & RABIGATO",
+      "imgUrl": "wine1.webp",
+      "description": "In 2020, winemaker Ricardo Macedo selected a blend of Folgazão and Rabigato. Aged in 300 Lt barrels, the resulting wine is a seductive Grande Reserva of remarkable freshness and persistence. Available in a limited edition, individually numbered and signed by the winemaker: 4.400 bottles. This Grande Reserva shows rich and vibrant aromas, with notes of stone fruit wrapped in well-integrated notes of wood. It displays balanced unctuousness and acidity, and its freshness and persistence are thoroughly engaging. Note: the awards shown below refer to the 2017 edition",
+      "id": "1",
+      "vineyard": "Rabigato, Folgazão",
+      "year": 2018
+    },
+    {
+      "name": "BURMESTER VINTAGE",
+      "imgUrl": "wine2.webp",
+      "description": "Deep violet colour. Elegant and harmonious aromas where the floral elements stand out (including rock rose and rose petals), combined with notes of red fruit, light white pepper and cassis. On the palate it presents very firm tannins, but with an elegance characteristic of Burmester vintages. A balanced vintage with flavours of fresh fruit and zippy freshness. Intense and harmonious finish.",
+      "id": "2",
+      "vineyard": "Tinta Roriz, Touriga Franca, Touriga Nacional, Alicante Bouschet",
+      "year": 2020
+    },
+    {
+      "name": "CÁLEM VINTAGE",
+      "imgUrl": "wine3.webp",
+      "description": "Intense purple in colour with ruby rim, this Vintage presents closed aromas of ripe black fruit, such as black plum, with notes of dried leaves and hints of ginger. Fine tannins in the mouth that envelop the flavours of fruit, with an intense and potent body. A complex and long-lasting wine.",
+      "id": "3",
+      "vineyard": "Sousão, Tinta Roriz, Touriga Franca, Touriga Nacional",
+      "year": 2020
+    },
+    {
+      "name": "KOPKE VINTAGE ",
+      "imgUrl": "wine4.webp",
+      "description": "Deep opaque dark colour. Intense aromas on the nose, with fresh notes of blackberries and blueberries combined with hints of dark chocolate, white pepper, orange blossom, bergamot and mint. Intense and complex in the mouth, with flavours of black fruit, showing excellent balance between sweetness and acidity; with firm tannins and a long and enduring finish.",
+      "id": "4",
+      "vineyard": "Touriga Nacional, Vinhas Velhas",
+      "year": 2020
+    },
+    {
+      "name": "BARROS VINTAGE",
+      "imgUrl": "wine5.webp",
+      "description": "Deep dark in colour, this Barros 2020 Vintage Port shows intense aromas of white and orange blossom perfectly combined with notes of red fruit and fresh hints of eucalyptus leaf. Excellent volume on the palate, intense, with fresh flavours and assertive tannins. Mineral, elegant and round. An extremely well-balanced Vintage.",
+      "id": "5",
+      "vineyard": "n/a",
+      "year": 2020
+    },
+    {
+      "name": "PORTO WINE - KOPKE COLHEITA TAWNY",
+      "imgUrl": "wine6.webp",
+      "description": "Red hue with brownish tones. Rich and intense nose where the aromas of ripe fruit combine with notes of nuts and spice. In the mouth it is intense and full of flavors, where the sweetest flavors combine with notes of nuts and some white pepper. Fresh and intense aftertaste.",
+      "id": "6",
+      "vineyard": "Tinta Barroca, Tinta Roriz, Touriga Franca, Touriga Nacional",
+      "year": 2012
+    },
+    {
+      "name": "BURMESTER CASA BURMESTER WHITE",
+      "imgUrl": "wine7.webp",
+      "description": "A Reserva with great elegance and character, remarkable for its appealing notes of white fruit and fresh herbs. A vibrant and fresh wine that is full and powerful and delivers delicate notes of smoke that enhance its complexity. It shows good structure and a long and refreshing finish.",
+      "id": "7",
+      "vineyard": "Gouveio, Rabigato, Viosinho",
+      "year": 2021
+    },
+    {
+      "name": "KOPKE COLHEITA TAWNY",
+      "imgUrl": "wine8.webp",
+      "description": "Brick in colour, this Colheita shows aromas of caramelized fruit, dried fruit and spice from its ageing in barrel. On the palate it is a balanced wine, with a perfect match between acidity and sweetness. Flavours of dried fruit, coffee and delicate notes of spice render the wine velvety and intense.",
+      "id": "8",
+      "vineyard": "Tinta Barroca, Tinta Roriz, Touriga Franca, Touriga Nacional",
+      "year": 2011
+    },
+    {
+      "name": "SÃO LUIZ WINEMAKER'S COLLECTION TINTO CÃO ROSE",
+      "imgUrl": "wine9.webp",
+      "description": "Winemaker's Collection is the unique collection of limited edition DOC Douro wines: red, white and rosé - in numbered bottles and signed bottles by our winemaker Ricardo Macedo. Salmon pink in colour, this wine exhibits aromas of fresh redcurrant and pomegranate and floral notes. The palate makes a good impression for its texture, silkiness and elegance, with subtle notes of smoke enhancing its complexity. Its freshness lingers throughout the tasting – a delight to the senses. With a fresh and long finish, it invites reflection. An excellent wine to accompany a meal, but also great to have it on its own.",
+      "id": "9",
+      "vineyard": "Tinto Cão",
+      "year": 2021
+    }
+  ]
+}
